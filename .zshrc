@@ -15,7 +15,6 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # my aliases
-alias sublime="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
-alias goto_work_dev="cd /Users/messaybekele/Documents/Work/Vetstreet/development/"
+alias sublime="/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"
 alias goto_rvm_gems="cd /Users/messaybekele/.rvm/gems/"
 alias goto_personal_dev="cd /Users/messaybekele/Development/"
